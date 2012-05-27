@@ -1,0 +1,9 @@
+E:\metro-style-app\helloWorldMetro\Application1\bin\Debug\resources.pri
+E:\metro-style-app\helloWorldMetro\Application1\bin\Debug\AppxManifest.xml
+E:\metro-style-app\helloWorldMetro\Application1\bin\Debug\Application1.build.appxrecipe
+E:\metro-style-app\helloWorldMetro\Application1\bld\Debug\priconfig.xml
+E:\metro-style-app\helloWorldMetro\Application1\bld\Debug\layout.resfiles
+E:\metro-style-app\helloWorldMetro\Application1\bld\Debug\resources.resfiles
+E:\metro-style-app\helloWorldMetro\Application1\bld\Debug\pri.resfiles
+E:\metro-style-app\helloWorldMetro\Application1\bld\Debug\LanguageQualifiers.txt
+E:\metro-style-app\helloWorldMetro\Application1\bld\Debug\ProjectArchitectures.txt

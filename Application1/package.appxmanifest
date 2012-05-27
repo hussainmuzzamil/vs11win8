@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="a18a2494-2fb9-4045-ae83-529000fb674e" Version="1.0.0.0" Publisher="CN=Muzzamil" />
+  <Properties>
+    <DisplayName>Application1</DisplayName>
+    <Description>Application1</Description>
+    <PublisherDisplayName>Muzzamil</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Hello Metro App" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Hello world app created using VS 11 Express beta for windows 8. this app is created to test the basic elements are working fine for the dev envo-. Created on 27-05-2012 by Muzzamil Hussain  More....  Git: git@github.com:hussainmuzzamil/vs11win8.git Twitter: https://twitter.com/#!/muzzamilhussain" ForegroundText="light" BackgroundColor="#694956">
+        <DefaultTile ShowName="allLogos" ShortName="HelloWorld" />
+        <SplashScreen Image="images\splashscreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
