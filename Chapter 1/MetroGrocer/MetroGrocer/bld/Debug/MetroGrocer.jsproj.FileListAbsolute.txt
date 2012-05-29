@@ -1,0 +1,18 @@
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bin\Debug\resources.pri
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bin\Debug\AppxManifest.xml
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bin\Debug\MetroGrocer.build.appxrecipe
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bld\Debug\priconfig.xml
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bld\Debug\layout.resfiles
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bld\Debug\resources.resfiles
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bld\Debug\pri.resfiles
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bld\Debug\LanguageQualifiers.txt
+G:\Users\Adam\Documents\Books\Metro Revealed JS\Source Code\Main Project\MetroGrocer\MetroGrocer\bld\Debug\ProjectArchitectures.txt
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bin\Debug\resources.pri
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bin\Debug\AppxManifest.xml
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bin\Debug\MetroGrocer.build.appxrecipe
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bld\Debug\priconfig.xml
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bld\Debug\layout.resfiles
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bld\Debug\resources.resfiles
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bld\Debug\pri.resfiles
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bld\Debug\LanguageQualifiers.txt
+E:\metro-style-appmetr-style-app-book\ch-01\Chapter 1\MetroGrocer\MetroGrocer\bld\Debug\ProjectArchitectures.txt
